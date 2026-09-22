@@ -6,7 +6,7 @@ I build **AI agent systems** — from LLM-orchestrated pipelines to trading and 
 
 💼 **Open to:** freelance and collaborative projects in AI agents, automation, and trading/fintech tooling.
 
-📫 **Reach me:** <!-- add your email, LinkedIn, or X/Twitter here -->
+📫 **Reach me:** chitanya.chitturi@gmail.com
 
 ---
 
